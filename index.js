@@ -1,0 +1,1 @@
+alert('Olá! Este é um alerta para verificar se o js está funcionando.');
